@@ -1,0 +1,36 @@
+.hidden {
+  overflow: hidden;
+}
+
+.componentcontainer {
+  max-width: 100%;
+  height: 120vh;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.componentcontainer header {
+  text-align: center;
+  font-size: 50px;
+}
+
+.componentcontainer2 header {
+  text-align: center;
+  font-size: 50px;
+}
+
+.component2container {
+  max-width: 100%;
+  margin-left: 40px;
+  margin-right: 40px;
+  max-height: 500px;
+}
+
+.component2container header {
+  text-align: center;
+  font-size: 50px;
+}
+
+.img-check {
+  padding: 40px;
+}

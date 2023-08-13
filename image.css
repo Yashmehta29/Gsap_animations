@@ -1,0 +1,14 @@
+img {
+  height: 100%;
+  width: 100%;
+  transform-origin: left;
+  object-fit: cover;
+}
+
+.mask {
+  visibility: hidden;
+  position: relative;
+  width: 80%;
+  height: 80%;
+  overflow: hidden;
+}
